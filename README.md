@@ -1,0 +1,1 @@
+In this HW project a space racer game was created in the game you can play in fast mode slow mode or sensor mode with adaptive speed you have a leaderboard screen and by pressing on each top score you can see the location where the score was achieved.
