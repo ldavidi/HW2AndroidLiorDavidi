@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="leaderboard_list">High score list</string>
+    <string name="leaderboard_tabs_description">Switch between Buttons Slow, Buttons Fast, and Sensor leaderboards</string>
+    <string name="leaderboard_pages_description">Swipe left or right to change leaderboard category</string>
+    <string name="leaderboard_map_description">Map showing selected score location</string>
+</resources>
